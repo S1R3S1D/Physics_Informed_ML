@@ -2,4 +2,4 @@ This is a repository to store the source code for examples in the Physics Inform
 
 Architectures Implemented:  
 1. Physics Informed Neural Networks  
-    
+    Couette flow
